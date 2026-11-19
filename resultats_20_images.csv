@@ -1,0 +1,21 @@
+﻿Image,Classe réelle,Classe prédite,Confiance,Latence (ms),Résultat
+0,Ankle boot,Ankle boot,0.9652,40.49,Correct
+1,Pullover,Pullover,0.9904,6.92,Correct
+2,Trouser,Trouser,1.0,6.31,Correct
+3,Trouser,Trouser,0.9999,9.29,Correct
+4,Shirt,Shirt,0.6753,8.12,Correct
+5,Trouser,Trouser,0.9995,8.2,Correct
+6,Coat,Coat,0.9946,13.86,Correct
+7,Shirt,Shirt,0.9882,11.57,Correct
+8,Sandal,Sandal,1.0,8.11,Correct
+9,Sneaker,Sneaker,1.0,10.25,Correct
+10,Coat,Coat,0.982,8.19,Correct
+11,Sandal,Sandal,0.9998,7.8,Correct
+12,Sneaker,Sandal,0.9347,7.41,Incorrect
+13,Dress,Dress,0.9999,10.93,Correct
+14,Coat,Coat,0.823,7.76,Correct
+15,Trouser,Trouser,0.9992,10.65,Correct
+16,Pullover,Pullover,0.9819,8.6,Correct
+17,Coat,Pullover,0.688,10.12,Incorrect
+18,Bag,Bag,1.0,13.08,Correct
+19,T-shirt/top,T-shirt/top,0.9858,12.83,Correct
